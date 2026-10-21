@@ -31,6 +31,7 @@ VERIFICATION_MODULES = [
     ("Chapter 5 — Deterministic SHA-256 Idempotency Ledger", "ch05_idempotency_checkpoints_demo.py"),
     ("Chapters 6–10 — M/M/1 Queue, Rogan-Gladen & Hash Chain", "verify_ch06_7_8_9_10_calcs.py"),
     ("Chapters 3–10 — Expanded Mechanisms & Statistical Proofs", "verify_expanded_calcs_and_code.py"),
+    ("Empirical Benchmark Labs — Labs 1.1, 5.1 & 6.1 (10k Monte Carlo & DES)", "run_empirical_benchmark_labs.py"),
     ("Appendix D — Unified 4-Ring Agent Harness Integration", "appendix_d_unified_harness_demo.py"),
 ]
 

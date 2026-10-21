@@ -69,3 +69,4 @@ python -I appendix_d_unified_harness_demo.py
 
 Ce dépôt privé (`https://github.com/msdw/The_Architecture_Is_The_Guardrail_Complete`) constitue le coffre-fort de code compagnon référencé dans le livre (*Front Matter* et *Appendices A & D*).  
 La clé d'accès lecteur imprimée dans l'ouvrage est : **`GUARDRAIL-RING0-2026-SHA256`**.
+
